@@ -1,2 +1,2 @@
 ## 知名git收藏
-1. [https://github.com/spring-projects](spring:https://github.com/spring-projects)
+1. [spring: https://github.com/spring-projects](https://github.com/spring-projects)
