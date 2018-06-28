@@ -1,3 +1,4 @@
-#SpringBoot中使用的插件
+# SpringBoot中使用的插件
 
-# 解决冲突的： maven-enforcer-plugin
+## 工程插件列表
+1. 解决冲突的： maven-enforcer-plugin
